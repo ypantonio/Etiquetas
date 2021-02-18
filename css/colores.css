@@ -1,0 +1,98 @@
+header{
+    width: 1350px;
+    height: 70px;
+    margin: auto;
+   background-color: #120070;
+}
+section{
+    width: 1000px;
+    height: 400px;
+    margin: 50px auto;
+    background-color:white;
+}
+.titulo1{
+    color: white;
+    font-size: 55px; 
+    font-family:inherit;
+    text-align: center;
+}
+
+.parrafo1{
+    text-align: inherit;
+    font-family: Century Gothic, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.tabla{
+    border-color: darkgray;
+    width: 700px;
+    height: 150px;
+    margin: auto;
+}
+
+.encabezado{
+    text-align: center;
+    font-family: serif;
+    background-color: chartreuse;
+    font-size: 20px;
+}
+
+.subtitulo1{
+    text-align: center;
+    background-color: bisque;
+    font-family: serif;
+}
+
+.subtitulo2{
+    text-align: center;
+    font-family: serif;
+    background-color: bisque;
+}
+.lista1{
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 17px;
+}
+
+.lista2{
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 17px;
+}
+.lista3{
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 17px;
+}
+.texto{
+    text-align: center;
+    font-family: Century Gothic, sans-serif;
+    font-size: 20px;
+    background-color: bisque;
+}
+.texto2{
+     text-align: center;
+    font-family: Century Gothic, sans-serif;
+    font-size: 20px;
+    background-color: bisque;
+}
+.nombre1{
+     text-align: center;
+    font-family: Century Gothic, sans-serif;
+    font-size: 20px;
+    background-color: bisque;
+}
+.descripcion{
+    text-align: center;
+    font-family: Century Gothic, sans-serif;
+    font-size: 20px;
+    background-color: bisque;
+}
+.propiedades{
+    text-align: center;
+    font-family: Century Gothic, sans-serif;
+    font-size: 20px;
+    background-color: bisque;
+}
+.imagen1{
+    width: 200px;
+    height: 200px;
+}
